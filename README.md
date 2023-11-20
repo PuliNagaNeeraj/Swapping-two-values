@@ -31,8 +31,8 @@ print("Swapped values are:",a,b)
 ```
 
 ## output: 
-![label](/![image](https://github.com/PuliNagaNeeraj/Swapping-two-values/assets/138849173/0acbbdca-b89d-42d9-9f7e-28b89ef7dbf7)
-)
+![swapping-of-two-variables](https://github.com/PuliNagaNeeraj/Swapping-two-values/assets/138849173/70db0ffd-3c70-4228-9fe2-eb7155f9ecab)
+
 
 
 ## RESULT:
